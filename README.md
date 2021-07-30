@@ -37,4 +37,10 @@ Or use the script made to run all the above:
 
 `$ ./run.sh`
 
+## Details
+All the details, including the results, can be found in the [Work Report](/relatorio/relatorio.pdf). Be aware, the Work Report was written in Portuguese.
+
+## Grade
+Evaluated with **18.4** out of 20.
+
 
